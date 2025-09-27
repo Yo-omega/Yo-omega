@@ -144,12 +144,6 @@ const youssef = {
 - [ ] Build 3 full-stack applications
 - [ ] Contribute to open source projects
 - [ ] Explore machine learning with Python
-
-### 🎯 Fun Facts
-- 🎮 I'm a gaming enthusiast
-- 📚 Love reading tech blogs
-- ☕ Coffee fuels my coding sessions
-- 🎵 I code better with music
     </td>
   </tr>
 </table>
