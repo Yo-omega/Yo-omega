@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Youssef;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Youssef;_Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img alt="Coding" width="60%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img alt="Coding" width="60%" src="./coding.gif">
 </div>
 
 <div align="center">
@@ -101,6 +101,8 @@ const youssef = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yo-omega&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yo-omega&theme=tokyo-night&hide_border=true&area=true" />
