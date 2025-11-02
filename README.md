@@ -11,10 +11,6 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img alt="Coding" width="60%" src="./coding.gif">
-</div>
-
-<div align="center">
 
 ```typescript
 const youssef = {
