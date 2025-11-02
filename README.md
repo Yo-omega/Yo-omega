@@ -120,34 +120,6 @@ const youssef = {
 
 ## 💼 What I'm Working On
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-### 🔭 Current Projects
-- 🌟 **Learning Full-Stack Development** - Mastering React & Node.js
-- 🤖 **Exploring Machine Learning** - Python projects and algorithms
-- 📱 **Web Development Projects** - Building responsive websites
-- 🔧 **Open Source Learning** - Contributing to beginner-friendly repos
-
-### 🌱 Currently Learning
-- 🔥 TypeScript fundamentals
-- 🚀 React ecosystem (Next.js, Vue.js)
-- 🧠 Modern JavaScript patterns
-- ☁️ Cloud services and DevOps basics
-    </td>
-    <td valign="top" width="50%">
-      
-### 💡 2025 Goals
-- [ ] Master React and TypeScript
-- [ ] Learn cloud technologies (AWS)
-- [ ] Build 3 full-stack applications
-- [ ] Contribute to open source projects
-- [ ] Explore machine learning with Python
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📈 Coding Activity
