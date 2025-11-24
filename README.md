@@ -14,7 +14,6 @@
 
 ```typescript
 const youssef = {
-    pronouns: "He/Him",
     code: ["JavaScript", "Python", "C++", "C"],
     scriptingAndAutomation: ["Bash scripting"],
     currentlyLearning: ["TypeScript", "Java", "React", "Vue", "Next.js"],
