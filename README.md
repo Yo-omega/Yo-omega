@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Youssef;_Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+👋;I'm+Youssef;_Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -113,20 +113,9 @@ const youssef = {
 
 ---
 
-## 💼 What I'm Working On
-
----
-
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 25 mins   ████████████▒░░░░░░░░░░░░   49.12 % 
-JavaScript   4 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Python       2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-CSS          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-```
 <!--END_SECTION:waka-->
 
 ---
