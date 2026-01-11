@@ -6,42 +6,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
-
-## 🚀 About Me
-
-<div align="center">
-
-```typescript
-const youssef = {
-    code: ["JavaScript", "Python", "C++", "C"],
-    scriptingAndAutomation: ["Bash scripting"],
-    currentlyLearning: ["TypeScript", "Next.js"],
-    askMeAbout: ["web dev", "tech", "machine learning", "Cyber Security"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["FastAPI", "Flask"],
-            interestedIn: ["Django"]
-        },
-        databases: ["MySQL", "NoSQL (JSON)", "MongoDB", "PostgreSQL"],
-        exploring: ["AWS", "Kubernetes", "CI/CD", "Webpack", "Vite", "Figma"],
-        tools: ["Git"]
-    },
-    currentFocus: "Learning modern web development"
-};
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ### 🚀 Languages
@@ -86,7 +51,7 @@ const youssef = {
 ---
 
 ## 📊 GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yo-omega)]
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yo-omega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yo-omega&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -102,9 +67,7 @@ const youssef = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yo-omega&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yo-omega&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
@@ -119,9 +82,6 @@ const youssef = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-el-bouzidi-851a222bb/)
 
 </div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yo-omega&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
