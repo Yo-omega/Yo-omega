@@ -41,6 +41,8 @@ Full-stack developer passionate about building scalable web applications and exp
 
 ## 📊 GitHub Stats
 
+![Stats](./profile/stats.svg)
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yo-omega&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yo-omega&layout=compact&langs_count=8&theme=tokyonight"/>
