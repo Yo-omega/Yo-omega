@@ -43,7 +43,7 @@ Full-stack developer passionate about building scalable web applications and exp
 
 ![Stats](./profile/stats.svg)
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yo-omega&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=authyx&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect With Me
@@ -51,5 +51,5 @@ Full-stack developer passionate about building scalable web applications and exp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-el-bouzidi-851a222bb/)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yo-omega&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=authyx&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
